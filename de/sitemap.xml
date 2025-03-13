@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/de/categories.html</loc>
+    <loc>https://lpinstall.de/de/categories.html</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories.html"
+                href="https://lpinstall.de/categories.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/categories.html"
+                href="https://lpinstall.de/fr/categories.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/categories.html"
+                href="https://lpinstall.de/de/categories.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/</loc>
+    <loc>https://lpinstall.de/de/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://lpinstall.de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/"
+                href="https://lpinstall.de/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/"
+                href="https://lpinstall.de/de/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags.html</loc>
+    <loc>https://lpinstall.de/de/tags.html</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags.html"
+                href="https://lpinstall.de/tags.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/tags.html"
+                href="https://lpinstall.de/fr/tags.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags.html"
+                href="https://lpinstall.de/de/tags.html"
                 />
   </url>
 </urlset>
